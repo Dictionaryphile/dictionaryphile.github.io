@@ -1,0 +1,5 @@
+name: Dictionaryphile
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-modernist
