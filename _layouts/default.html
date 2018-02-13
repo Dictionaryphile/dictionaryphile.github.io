@@ -6,22 +6,19 @@
 
 {% seo %}
 
-    <link href='https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="//apps.bdimg.com/libs/html5shiv/3.7/html5shiv.min.js"></script>
     <![endif]-->
   </head>
   <body>
     <div class="wrapper">
-      <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+      <header>
         <h1>Dictionaryphile</h1>
-        {% if site.description or site.github.project_tagline %}
-          <p>word-catcher</p>
-        {% endif %}
+          <p>word-watcher, word-catcher -> wordsmith</p>
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         <ul>
         {% if site.show_downloads %}
