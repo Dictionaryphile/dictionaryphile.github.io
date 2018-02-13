@@ -2,8 +2,7 @@
 layout: default
 title: Dictionaryphile's Blog
 ---
-
-[Home](/) | [Blog](/blog/)  
+[Home](/) | [Blog](/blog/)<br />
 
 
 # 自我介绍&全部文章
