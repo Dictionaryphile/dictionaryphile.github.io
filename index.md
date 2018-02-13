@@ -11,6 +11,8 @@ title: Dictionaryphile's Blog
 - [1000 部英语类词典名录兼词典推荐、选择 on GitHub](https://github.com/Dictionaryphile/1000_Eng_Dicts)
 - [GoldenDict 中文用户手册 on GitHub](https://github.com/Dictionaryphile/GoldenDict_zh_manual)
 - [个人知识站点](https://ducidian.com/)
+- [Twitter@dictionaryphile](https://twitter.com/dictionaryphile)
+- [图床](https://imgchr.com/dictionaryphile)
 
 谢谢大家的关注与支持！
 
