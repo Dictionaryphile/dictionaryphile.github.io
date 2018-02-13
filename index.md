@@ -3,8 +3,6 @@ layout: default
 title: Dictionaryphile's Blog
 ---
 [Home](/) | [Blog](/blog/)<br />
-
-
 # 自我介绍&全部文章
 
 本文最后更新：2018-02-13。  
