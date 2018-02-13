@@ -3,8 +3,7 @@ layout: default
 title: Dictionaryphile's Blog
 ---
 
-- <span style="color:blue">[Home](/)</span>
-- <span style="color:#A00000">[Blog](/blog/)</span>
+[Home](/) | [Blog](/blog/)  
 
 
 # 自我介绍&全部文章
