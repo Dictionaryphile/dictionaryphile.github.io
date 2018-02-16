@@ -3,9 +3,9 @@ layout: default
 title: Dictionaryphile's Blog
 ---
 
-本文最后更新：2018-02-13。  
+本文最后更新：2018-02-17。  
 
-本站主要整理、发布[微信公众平台 Dictionaryphile](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)的文章，修订原文错误，补充有关信息。
+本站主要整理、发布[微信公众平台 Dictionaryphile （微信号：ducidian）](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)的文章，修订原文错误，补充有关信息。
 - 伪/词典爱好者一枚
 - [宇宙最全在线词典网站导航 on GitHub](https://github.com/Dictionaryphile/All_Dictionaries)
 - [1000 部英语类词典名录兼词典推荐、选择 on GitHub](https://github.com/Dictionaryphile/1000_Eng_Dicts)
@@ -17,7 +17,3 @@ title: Dictionaryphile's Blog
 谢谢大家的关注与支持！
 
 -EOF-  
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTU0MTAxMzJdfQ==
--->

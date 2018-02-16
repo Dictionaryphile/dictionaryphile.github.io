@@ -1,6 +1,6 @@
 name: Dictionaryphile
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/
 
 theme: jekyll-theme-modernist
 github_username: Dictionaryphile

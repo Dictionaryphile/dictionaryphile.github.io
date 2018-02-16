@@ -176,29 +176,48 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
-  line-height:1.1;
+h1, h2, h3, h4, h5, h6 {
+  margin: 1.3em 0 1em;
+  padding: 0;
+  font-weight: bold;
 }
 
 h1 {
-  font-size:28px;
+  font-size: 1.6em;
+  border-bottom: 1px solid #ddd;
 }
 
 h2 {
-  color:#393939;
+  font-size: 1.4em;
+  border-bottom: 1px solid #eee;
 }
 
-h3, h4, h5, h6 {
-  color:#494949;
+h3 {
+  font-size: 1.3em;
 }
 
-blockquote {
-  margin:0 -20px 20px;
-  padding:15px 20px 1px 40px;
-  font-style:italic;
-  background:#ccc;
-  background:rgba(#000, 0.06);
-  color:#222;
+h4 {
+  font-size: 1.2em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+blockquote, q {
+  border-left: 4px solid #DDD;
+  padding: 0 1em;
+  color: #777;
+  quotes: none;
+}
+
+blockquote::before, blockquote::after, q::before, q::after {
+  content: none;
 }
 
 img {
