@@ -3,7 +3,7 @@ layout: default
 title: Dictionaryphile's Blog
 ---
 
-本文最后更新：2018-10-28。  
+本文最后更新：2018-11-02。  
 
 本站主要整理、发布[微信公众平台 Dictionaryphile （微信号：ducidian）](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)的文章，修订原文错误，补充有关信息。
 - 伪/词典爱好者一枚
@@ -17,4 +17,7 @@ title: Dictionaryphile's Blog
 谢谢大家的关注与支持！  
 wordie -> logophile -> dictionaryphile  
 
+2018-11-03 
+停更声明  
+由于个人原因即日起本公众号将停止更新，感谢大家一直以来的陪伴。  
 -EOF-  
